@@ -1,7 +1,7 @@
 - 👋 Hi, I’m JemPH
-- 👀 I’m interested in English Language. 
-- 🌱 I’m currently learning embedded systems automation. 
-- 💞️ I love cloud development. 
+- 👀 I’m interested in Python Language. 
+- 🌱 I’m into embedded systems automation, web scraping, webhooks, apis. 
+- 💞️ I love cloud vps development. 
 - 📫 How to reach me https://t.me/JemPH/
 
 <!---
